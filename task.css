@@ -1,0 +1,155 @@
+.mainDiv{
+    width: 100%;
+    height: 10vh;
+    border: 1px solids;
+    display: flex;
+    position: relative;
+}
+.childDiv{
+width: 20%;
+font-weight: bolder;
+font-style:italic   ;
+}
+.homeDiv{
+width: 80%;
+height: 10vh;
+display: flex;
+justify-content: space-evenly;
+font-size: small;
+color: aliceblue;
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.mainEducationFormDiv{
+    display: flex;
+    position: relative;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+.readMoreButton{
+    width: 30%;
+    height: 7vh;
+    background-color: blue  ;
+    color: aliceblue;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.EducationDiv{
+    height: 50vh;
+    width: 50%;
+    color: rgb(35, 38, 40);
+    margin-top: 10%;
+    margin-left: 5%;
+}
+.educationPara{
+font-size:xx-large;
+font-weight: bolder;
+}
+.studyPara{
+    font-size:x-large;
+    font-weight: bold;
+}
+.OncePara{
+font-size: small;
+}
+.registrationForm{
+    width: 30%;
+    height: 50%;
+    /* border: 1px solid;    */
+    margin-top: 5%;
+    background-color:white;
+    /* padding: 2%; */
+    padding-left: 2%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.backgroundImgDiv{
+    width:100%;
+    height: 100vh;
+    border: 1px solid;
+    position: absolute;
+}
+.backgroundImg{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.InputBox{
+    /* margin: 2%   ; */
+width: 80%;
+height: 5vh;
+/* background-color: rgb(163, 154, 154)  ; */
+box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+
+}
+.GetStartedButton{
+    background-color: blue;
+    color: aliceblue;
+    width: 80%;
+height: 6vh;
+box-shadow: rgba(0, 0, 0, 0.19) 0px 10px 20px, rgba(0, 0, 0, 0.23) 0px 6px 6px; 
+
+}
+.ByPara{
+    font-size: small;
+}
+.MainFacillitiesDiv{
+    height: 40vh;
+    width: 100%;
+display: flex;
+justify-content: center;
+column-gap: 2%;
+
+}
+.FacillitiesDiv{
+    height: 40vh;
+    width: 20%;
+    border: 1px solid;
+    position: relative  ;
+}
+.mainVivamusDiv{
+height: 40vh;
+width: 100%;
+display: flex   ;
+justify-content: center;
+column-gap: 2%; 
+}
+.VivamusDiv{
+    padding: 2%;
+    height: 40vh;
+    width: 40%;
+    /* border: 1px solid;÷   */
+    font-size: small;
+}
+.FacillitieImg{
+    height: 40vh;
+    width: 100%; 
+    position: absolute;
+}
+.ImgName{
+    font-weight: bolder;
+    position: relative;
+    color: rgb(238, 242, 246);
+    text-align: right ;
+    padding-top: 60%;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset;
+}
+.QUALITYDiv{
+    height: 40vh;
+    width: 20%;
+    position: relative;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.mainQUALITYDiv{
+    height: 40vh;
+    width: 100%;
+    justify-content: center;    
+    column-gap: 2%;
+    display: flex;
+    
+
+}
+.GirlQualityImg{
+    height: 60vh;
+    margin-left: 10%;
+    width: 70%;
+    position: absolute;
+}
